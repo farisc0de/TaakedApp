@@ -24,6 +24,10 @@ The problem that we are trying to present in this project is that the excessive 
 
 ## Screenshots
 
+<img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Splash.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Main%20Page.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Peak%20Charts.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/QR%20Scanner.png" height="350px" />
+
+
+
 ## Team Members
 
 1. Meshal Bandar Hadhrawi
