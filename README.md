@@ -18,6 +18,12 @@ Crowd management is a public practice where large crowds are managed. Effective 
 
 The problem that we are trying to present in this project is that the excessive numbers of people in public places and malls leads to congestions, and also to prevent them from entering or unwanted waiting and loss of time, this study, our solution for managing crowd in public areas in a form of a mobile application technology, our solution would use historical data to provide suggestions to visitors and identify the peak times in public places and to facilitate access to these places, it would also help in reducing overcrowding and reducing waiting times in public places, which support decision makers to decide and people as well to decide about their trips and other activities.
 
+## System Architecture
+
+![System Architecture](https://raw.githubusercontent.com/farisc0de/TaakedApp/main/System%20Architecture.png)
+
+## Screenshots
+
 ## Team Members
 
 1. Meshal Bandar Hadhrawi
