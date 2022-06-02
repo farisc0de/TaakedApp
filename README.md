@@ -1,3 +1,7 @@
+<p align="center">
+    <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/Taaked%20App%20Logo.png" height="350px" />
+</p>
+
 # TAAKED Mobile App
 
 Crowd Management App - Capstone Project
