@@ -35,3 +35,11 @@ The problem that we are trying to present in this project is that the excessive 
 ## Demo
 
 [https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view?usp=sharing](https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view?usp=sharing)
+
+## License
+
+MIT
+
+## Copyright
+
+Made with ❤️ at TU - 2022
