@@ -36,9 +36,11 @@ The problem that we are trying to present in this project is that the excessive 
 4. Abdulmajeed Mohammed Alamri
 5. Majed Abdullah AlGhamdi
 
-## Demo
+## Useful Links
 
-[https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view?usp=sharing](https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view?usp=sharing)
+1. [Project Report](https://github.com/farisc0de/TaakedApp/blob/main/Project_Report_FINAL.pdf)
+2. [Project Poster](https://github.com/farisc0de/TaakedApp/blob/main/Project%20Poster.pdf)
+3. [Project Demo](https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view)
 
 ## License
 
