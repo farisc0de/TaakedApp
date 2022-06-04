@@ -40,7 +40,7 @@ The problem that we are trying to present in this project is that the excessive 
 
 1. [Project Report](https://github.com/farisc0de/TaakedApp/blob/main/Project_Report_FINAL.pdf)
 2. [Project Poster](https://github.com/farisc0de/TaakedApp/blob/main/Project%20Poster.pdf)
-3. [Project Demo](https://drive.google.com/file/d/1Do-t6qmwubu1fItDAjsXF03JiDHHkKK8/view)
+3. [Project Demo](https://github.com/farisc0de/TaakedApp/blob/main/Project%20Demo.mp4)
 
 ## License
 
