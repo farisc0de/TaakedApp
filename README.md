@@ -26,13 +26,11 @@ The problem that we are trying to present in this project is that the excessive 
 
 <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Splash.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Main%20Page.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/Peak%20Charts.png" height="350px" /> <img align="center" src="https://raw.githubusercontent.com/farisc0de/TaakedApp/main/screenshots/QR%20Scanner.png" height="350px" />
 
-
-
 ## Team Members
 
-1. Meshal Bandar Hadhrawi
-2. Faris Mohammed AL-Otaibi
-3. Ahmed Ali Al-Duais
+1. [Meshal Bandar Hadhrawi](https://github.com/mshalhadhrawi)
+2. [Faris Mohammed AL-Otaibi](https://github.com/farisc0de)
+3. [Ahmed Ali Al-Duais](https://github.com/Duais11)
 4. Abdulmajeed Mohammed Alamri
 5. Majed Abdullah AlGhamdi
 
